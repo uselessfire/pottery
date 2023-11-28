@@ -32,7 +32,7 @@ from typing_extensions import Final
 
 
 __title__: Final[str] = 'pottery'
-__version__: Final[str] = '3.0.0'
+__version__: Final[str] = '4.0.0'
 __description__: Final[str] = __doc__.split(sep='\n\n', maxsplit=1)[0]
 __url__: Final[str] = 'https://github.com/brainix/pottery'
 __author__: Final[str] = 'Rajiv Bakulesh Shah'
